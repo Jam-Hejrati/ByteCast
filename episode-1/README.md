@@ -12,3 +12,5 @@
 [mary-lee-berners-lee-obituary](https://www.theguardian.com/technology/2018/jan/23/mary-lee-berners-lee-obituary)  
 [ben-berners-lee](https://www.linkedin.com/in/ben-berners-lee-667685135/)  
 [peter-berners-lee](https://www.linkedin.com/in/peter-berners-lee-6037423a/)  
+[Mary_Lee_Woods](https://en.wikipedia.org/wiki/Mary_Lee_Woods)  
+[Conway_Berners-lee](https://en.wikipedia.org/wiki/Conway_Berners-Lee)  
