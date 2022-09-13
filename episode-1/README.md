@@ -14,3 +14,5 @@
 [peter-berners-lee](https://www.linkedin.com/in/peter-berners-lee-6037423a/)  
 [Mary_Lee_Woods](https://en.wikipedia.org/wiki/Mary_Lee_Woods)  
 [Conway_Berners-lee](https://en.wikipedia.org/wiki/Conway_Berners-Lee)  
+[wiumlie.no](https://wiumlie.no/en)  
+[w3.org/People/howcome](https://www.w3.org/People/howcome/)  
